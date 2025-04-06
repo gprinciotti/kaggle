@@ -7,6 +7,7 @@ Módulo com funções utilitárias para o projeto.
 # -----------------------------------------------------------------------------
 import pandas as pd
 import numpy as np
+from IPython.display import display
 
 # -----------------------------------------------------------------------------
 # Análise exploratória de dados
