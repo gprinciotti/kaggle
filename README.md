@@ -8,3 +8,7 @@ This repository contains experiments and analyses for Kaggle's Playground Series
 - **notebooks**: Jupyter notebooks with EDA, feature engineering, and model training. The filenames are intuitive.
 - **outputs**: Predictions saved as submission.csv, just as Kaggle requires.
 - **src**: A few utility scripts (utils.py)
+
+## My Kaggle Profile
+
+You can access my profile [here](https://www.kaggle.com/vgprin).

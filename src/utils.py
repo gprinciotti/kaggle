@@ -53,6 +53,10 @@ def quick_eda(df):
     })
     display(info_df)
 
+    # summarise the dataset
+    print('Summary:')
+    display(df.describe().round(2))
+
 def rolling_average(df, time_var, outcomes, window = 7):
     """
     Calculate the rolling average of specified outcome variables over a given time window.
